@@ -10,6 +10,6 @@ Development of SkyWay is still in process.
 
 ### List & Links of all Services
 
-- **FlightSearchService:** 
+- **FlightSearchService:*https://github.com/Priyanshushekhar77/FlightSearchService* 
 - **AuthService:** 
 - **BookingService:**
