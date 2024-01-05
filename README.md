@@ -1,4 +1,4 @@
-# SkyWay
+# AirWay
 
 ## Introduction
 
@@ -12,4 +12,4 @@ Development of SkyWay is still in process.
 
 - **FlightSearchService:** https://github.com/Priyanshushekhar77/FlightSearchService
 - **AuthService:**  https://github.com/Priyanshushekhar77/skyway_Auth_Service
-- **BookingService:**
+- **BookingService:** https://github.com/Priyanshushekhar77/flight_booking_service
